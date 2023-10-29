@@ -7,5 +7,8 @@ for (let i=0;i<5;i++) {
         console.log(`${new_users[i]},The person will need to enter a new username`); 
     }else if (new_users[i]==='user3') {
         console.log(`${new_users[i]},The person will need to enter a new username`);  
+    }else{
+        console.log(`${new_users[i]}, username is avaiable` );  
+    }
 }
 
