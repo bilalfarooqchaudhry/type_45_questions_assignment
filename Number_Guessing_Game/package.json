@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.11",
+    "ts-node": "^10.9.1"
+  },
+  "name": "number_guessing_game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
